@@ -29,6 +29,13 @@
 
 ---
 
+## 🌐 Деплой
+
+Приложение в работе:  
+👉 [habit-tracker-theta-sage.vercel.app](https://habit-tracker-theta-sage.vercel.app/)
+
+---
+
 ## 📦 Установка и запуск
 
 ```bash
@@ -36,9 +43,3 @@ git clone https://github.com/hlibyelkhov/habit-tracker.git
 cd habit-tracker
 npm install
 npm run dev
-
-
-## 🌐 Деплой
-
-Приложение в работе:  
-👉 [habit-tracker-theta-sage.vercel.app](https://habit-tracker-theta-sage.vercel.app/)
